@@ -1,0 +1,5 @@
+@media screen and (max-width:1000px){
+ .nav{display:none;}
+
+	.header .logo{display:none;}
+}
